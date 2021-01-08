@@ -2,7 +2,7 @@ import 'decanter/dist/decanter.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" class="su-px-48">
       <header role="banner">
         <h1>Decanter With Tailwind Test Page.</h1>
         <p>
